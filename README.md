@@ -5,7 +5,7 @@ CakePHP accounting system / comptabilité double privée
 
 Programme de comptabilité double pour particulier
 
-written with CakePHP by Fred Radeff
+written with CakePHP by Fred Radeff, http://www.akademia.ch
 
 with special thanks to Alaxos (http://www.alaxos.net/) who helped me for the double-entry model
 
